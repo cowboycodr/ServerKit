@@ -1,6 +1,9 @@
 {
   "name": "kiankit",
   "version": "0.0.1",
+  "engines": {
+    "node": "20"
+  },
   "private": true,
   "scripts": {
     "dev": "vite dev",
